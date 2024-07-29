@@ -1,0 +1,24 @@
+.card{
+    background-color: rgb(104, 102, 102);
+} 
+
+.container{
+    background-color: rgb(27, 25, 25);
+} 
+
+.navbar{
+    background-color: rgb(104, 102, 102);
+} 
+
+.table>tbody>tr:nth-child(odd)>td, 
+.table>tbody>tr:nth-child(odd)>th {
+   background-color: rgb(104, 102, 102);
+ } 
+
+ form, input, label, p {
+    color: white !important;
+}  
+
+h1, h3 {
+    color: white !important;
+}
